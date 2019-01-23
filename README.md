@@ -4663,7 +4663,7 @@ https://eis.online.sberbank.ru:9443/ext-integration-service-app/tokens/confirmOf
 <version from="8.6" value="true"/>
 </pushLogoTypeUsing>
 <showUniversalPushNotification>
-<version from="8.7" value="true"/>
+<version from="9.0" value="true"/>
 </showUniversalPushNotification>
 <preloginTargetTapNotificationEnabled>true</preloginTargetTapNotificationEnabled>
 <snackBarWithLastTPU>
