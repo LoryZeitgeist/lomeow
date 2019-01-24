@@ -824,7 +824,7 @@ The entered ID is already in use in the system. Enter a different value
 <type>setting</type>
 <enabled>true</enabled>
 </param>
-<param name="pushErib" description="">
+<param name="Erib" description="">
 <type>setting</type>
 <enabled>true</enabled>
 </param>
